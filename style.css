@@ -1,0 +1,169 @@
+header{
+    background-image: url(./images/wallpapersden.com_beautiful-landscape_2560x1440.jpg);
+    width:1540px ;
+    height: 900px;
+}
+nav{
+    display: flex;
+    justify-content: flex-end;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+nav ul li{
+   list-style-type: none;
+   display: inline-block;
+   padding: 10px 20px;
+   letter-spacing: 1.2px;
+}
+nav ul li{
+    color: white;
+    font-weight: bold;
+}
+.text{
+    width: 546px;
+    height: 43px;
+    color: white;
+    margin-top: 785px;
+   padding-left: 200px;
+   
+}
+.box{
+    background-color: #f7f7f7;
+    width: 1540px;
+    height: 6754px;
+}
+h4{
+    color: #262626;
+    margin-left: 60px;
+    width: 79px;
+    height: 12px;
+    padding: 20px;
+}
+h3{
+    margin-left: 200px;
+    color: white;
+    padding: 5px;
+   
+    
+}
+.item{
+    left: 180px;
+    width: 585px;
+    height: 82px;
+    color: #262626;
+    margin-left: 80px;
+}
+p{
+    width: 1028px;
+    height: 212px;
+    margin-left: 50px;
+    color: #434343;
+    padding-top: 50px;
+    letter-spacing: 1px;  
+}
+.small{
+    color: #959595;
+    width: 158px;
+    height: 20px;
+    margin-left: 100px;
+    margin-top: 80px;
+}
+.number{
+
+    color: #959595;
+    margin-left: 300px;
+    margin-top: 10px;
+}
+a{
+    color: black;
+}
+.first-box{
+    
+    background-color: #ffffff;
+    width: 835px;
+    height: 339px;
+    margin-left: 80px;
+    float: left;
+    border-radius: 6px;
+
+}
+.second-box{
+    background-color: #ffffff;
+    width: 395px;
+    height: 339px;
+    margin-left: 50px;
+    border-radius: 6px;
+    margin-right: 150px;
+   
+   
+}
+.third-box{
+    background-color:#ffffff;
+    width: 835px;
+    height: 505px ;
+    border-radius: 6px;
+    margin-left: 80px;
+    margin-top: 15px;
+
+}
+.bbox{
+    background-color: #ffffff;
+    width: 395px;
+    height: 505px;
+    border-radius: 6px;
+    margin-top: 15px;
+    margin-right: 150px;
+}
+.item-box{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.les{
+    width: 232px;
+    height: 36px;
+    margin-left: 80px;
+    margin-top: 100px;
+}
+.less{
+    width: 670px;
+    height: 51px;
+}
+.le{
+    margin-left: 100px;
+    margin-top: 100px;
+    width: 169px;
+    height: 36px;
+}
+.l{
+    width: 211px;
+    height: 93px;
+}
+.di{
+    margin-top: 100px;
+    width: 223px;
+    height: 36px;
+}
+.avec{
+   
+    width: 635px;
+    height: 151px;
+}
+.equ{
+    width: 142px;
+    height: 36px;
+    margin-top: 100px;
+}
+.out{
+    width: 44px;
+height: 12px;
+}
+.blue{
+    background-color: blue;
+    width: 87px;
+    height: 34px;
+}
+a{
+    color: #959595;
+    margin-left: 200px;
+}
