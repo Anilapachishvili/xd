@@ -3,6 +3,9 @@ header{
     width:1540px ;
     height: 900px;
 }
+
+/* am potos 100% rom dauwero yvela rezolucias shevsebs */
+
 nav{
     display: flex;
     justify-content: flex-end;
@@ -167,3 +170,9 @@ a{
     color: #959595;
     margin-left: 200px;
 }
+
+/* klasebistvis ufro logikuri saxelebi rom geweros kargi iqneba, armadzleven informacias ras uwer stilebs */
+
+/* struqtura odnav dargveulia */
+
+struqtura odnav dargveulia
